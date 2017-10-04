@@ -474,6 +474,9 @@ header.masthead {
   .team-member p {
     margin-top: 0; }
 
+.about-description {
+  max-width: 80%; }
+
 @media (max-width: 800px) {
   .about-description {
     text-align: center;
